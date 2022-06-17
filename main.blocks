@@ -4,4 +4,4 @@
         . . . # . 
         . . . . # 
         . . . . .
-        `</field></block><block type="pxt-on-start" id="a7E~4x_r{Kb2Z|AG:~l#" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="ScnCNQ-T@n@8r$xb[E)a"><value name="text"><shadow type="text" id="K6vK(R4[m=R`d9f,7%{-"><field name="TEXT">Hola Chicas</field></shadow></value></block></statement></block><block type="device_forever" id="gxyl!eH4O?(DZ-Pq?hCu" x="349" y="7"><statement name="HANDLER"><block type="basic_show_icon" id="7m$jbRh6_7v/D4Zycvlc"><field name="i">IconNames.Heart</field></block></statement></block></xml>
+        `</field></block><block type="pxt-on-start" id="a7E~4x_r{Kb2Z|AG:~l#" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="ScnCNQ-T@n@8r$xb[E)a"><value name="text"><shadow type="text" id="K6vK(R4[m=R`d9f,7%{-"><field name="TEXT">Hola Mundo</field></shadow></value></block></statement></block><block type="device_forever" id="gxyl!eH4O?(DZ-Pq?hCu" x="349" y="7"><statement name="HANDLER"><block type="basic_show_icon" id="7m$jbRh6_7v/D4Zycvlc"><field name="i">IconNames.Heart</field></block></statement></block></xml>
